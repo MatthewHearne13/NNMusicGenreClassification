@@ -1,9 +1,3 @@
-# To clone and set up:
-1. Clone in local folder with: 
-`git clone https://github.com/lucktran/topnmusic.git`
-2. Create and activate virtual environment with:
-`python -m venv .\.venv`
-3. Activate virtual environment:
-`.\.venv\Scripts\activate`
-4. run set up:
-`pip install .`
+This is my final group project for Oregon State University where we created a Neural Network to classify music genres. For my portion, I used PyTorch to create a Feed-Forward Neural Network that predicted correct genre with 70% accuracy. Song features were extracted using Librosa. 
+
+https://www.youtube.com/watch?v=veyxvhy7ZKQ
